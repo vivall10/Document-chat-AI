@@ -60,6 +60,7 @@ Ask questions about the document
 
 View answers + source chunks
 
-Author
-Vivall Merugu 
+### Author
+Vivall Merugu
+
 ivivall663@gmail.com
