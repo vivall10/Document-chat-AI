@@ -1,5 +1,6 @@
+# Document Chat AI
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - FastAPI
@@ -13,7 +14,7 @@
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone repo
 
@@ -45,7 +46,7 @@ npm run dev
 Open:
 
 http://localhost:5173
-🧪 How to Use
+How to Use
 Upload a PDF
 Go to Chat page
 Ask questions about the document
